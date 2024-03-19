@@ -6,7 +6,7 @@ Repositório bloqueado para push na main, é necessário abri um PullRequest;
 Links para repositórios relacioados:
 
 - TechChallenge-LanchoneteTotem-Infra-Banco (criação banco de dados com DocumentDB + terrraform):
-  - https://github.com/WillianViegas/TechChallenge-LanchoneteTotem-Lambda
+  - https://github.com/WillianViegas/TechChallenge-LanchoneteTotem-Infra-Banco
 - TechChallenge-LanchoneteTotem-Lambda (Função lambda + cognito + terraform:
   - https://github.com/WillianViegas/TechChallenge-LanchoneteTotem-Lambda
 - TechChallenge-LanchoneteTotem (Apis + docker + kubernetes):
